@@ -2,6 +2,7 @@ __author__ = 'kkrupa'
 import sys
 import os
 
+
 print 'hello'
 
 my_new_variable = 2
